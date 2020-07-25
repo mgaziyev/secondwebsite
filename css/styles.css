@@ -1,0 +1,103 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+.top-container{
+  background-color:#cbeaed;
+  height: 30rem;
+  position: relative;
+}
+.first-cloud{
+  height: 7rem;
+  width: 7rem;
+  position: absolute;
+  left: 22rem;
+  display: block;
+}
+.sun{
+  height: 6.5rem;
+  width: 6.5rem;
+  position: absolute;
+  left: 26rem;
+  display: block;
+}
+.top-text{
+  padding-top: 8rem;
+  margin-top:0;
+  font-family: 'Merienda One', cursive, sans-serif;
+  color:#086972;
+  font-size:3rem;
+}
+.top-text-exp{
+  font-family: 'Merienda One', cursive, sans-serif;
+  color:#086972;
+  font-size:1.5rem;
+}
+.second-cloud{
+  height: 7rem;
+  width: 7rem;
+  position: absolute;
+  left: 48rem;
+  top:16rem;
+}
+.mountain{
+  position: absolute;
+  top: 14.3rem;
+  left:31.5rem;
+  display: block;
+  width: 21.875rem;
+}
+.middle-container{
+  background-color:#faf4f4;
+  padding-top:3rem;
+  position: relative;
+}
+.about-me{
+  font-family: 'Merienda One', cursive, sans-serif;
+  color:#086972;
+  font-size:1.5rem;
+  margin: 2rem auto;
+}
+.about-me-exp{
+  width: 21.875rem;
+  margin: auto;
+}
+a:-webkit-any-link {
+  color:inherit
+}
+a:hover{
+  font-weight:bolder;
+}
+hr{
+  border-style: dashed;
+  border-color: #086972;
+  border-width: 0.1rem;
+  height:0.1%;
+  width: 5%;
+  margin: 5rem auto;
+}
+.webdev-img{
+  float:left;
+  width:43%;
+  height:43%;
+}
+.android-pic{
+  width:43%;
+  height:43%;
+  float:left;
+  position: relative;
+}
+.skills{
+  width:35%;
+  margin:3rem auto;
+  position: relative;
+}
+
+.bottom-container{
+  background-color: #6ebfb5;
+  text-align: center;
+  padding: 50px 20px;
+}
+.socialmedia{
+  margin:0 20px;
+}
